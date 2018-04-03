@@ -1,0 +1,335 @@
+actor_name,gender,date_of_birth,date_of_death,award_type,film,date_of_award
+Emil Jannings,male,23.07.1884,02.01.1950,ba,The Last Command; The Way of All Flesh,16.05.1929
+Warner Baxter,male,29.03.1889,07.05.1951,ba,In Old Arizona,03.04.1930
+George Arliss,male,10.04.1868,05.02.1946,ba,Disraeli,05.11.1930
+Lionel Barrymore,male,28.04.1878,15.11.1954,ba,A Free Soul,10.11.1931
+Wallace Beery,male,01.04.1885,15.04.1949,ba,The Champ,18.11.1932
+Fredric March,male,31.08.1897,14.04.1975,ba,Dr. Jekyll and Mr. Hyde,18.11.1932
+Charles Laughton,male,01.07.1899,15.12.1962,ba,The Private Life of Henry VIII,16.03.1934
+Clark Gable,male,01.02.1901,16.11.1960,ba,It Happened One Night,27.02.1935
+Victor McLaglen,male,10.12.1886,07.11.1959,ba,The Informer,05.03.1936
+Paul Muni,male,22.09.1895,25.08.1967,ba,The Story of Louis Pasteur,04.03.1937
+Spencer Tracy,male,05.04.1900,10.06.1967,ba,Captains Courageous,10.03.1938
+Spencer Tracy,male,05.04.1900,10.06.1967,ba,Boys Town,23.02.1939
+Robert Donat,male,18.03.1905,09.06.1958,ba,Goodbye Mr. Chips,29.02.1940
+James Stewart,male,20.05.1908,02.07.1997,ba,The Philadelphia Story,27.02.1941
+Gary Cooper,male,07.05.1901,13.05.1961,ba,Sergeant York,26.02.1942
+James Cagney,male,17.07.1899,30.03.1986,ba,Yankee Doodle Dandy,04.03.1943
+Paul Lukas,male,26.05.1895,15.08.1971,ba,Watch on the Rhine,02.03.1944
+Bing Crosby,male,03.05.1903,14.10.1977,ba,Going My Way,15.03.1945
+Ray Milland,male,03.01.1907,10.03.1986,ba,The Lost Weekend,07.03.1946
+Fredric March,male,31.08.1897,14.04.1975,ba,The Best Years of Our Lives,13.03.1947
+Ronald Colman,male,09.02.1891,19.05.1958,ba,A Double Life,20.03.1948
+Laurence Olivier,male,22.05.1907,11.07.1989,ba,Hamlet,24.03.1949
+Broderick Crawford,male,09.12.1911,26.04.1986,ba,All the King's Men,23.03.1950
+José Ferrer,male,08.01.1912,26.01.1992,ba,Cyrano de Bergerac,29.03.1951
+Humphrey Bogart,male,25.12.1899,14.01.1957,ba,The African Queen,30.03.1952
+Gary Cooper,male,07.05.1901,13.05.1961,ba,High Noon,19.03.1953
+William Holden,male,17.04.1918,12.11.1981,ba,Stalag 17,25.03.1954
+Marlon Brando,male,03.04.1924,01.07.2004,ba,On the Waterfront,30.03.1955
+Ernest Borgnine,male,24.01.1917,08.07.2012,ba,Marty,21.03.1956
+Yul Brynner,male,11.07.1920,10.10.1985,ba,The King and I,27.03.1957
+Alec Guinness,male,02.04.1914,05.08.2000,ba,The Bridge on the River Kwai,26.03.1958
+David Niven,male,01.03.1910,29.07.1983,ba,Separate Tables,06.04.1959
+Charlton Heston,male,04.10.1923,05.04.2008,ba,Ben-Hur,04.04.1960
+Burt Lancaster,male,02.11.1913,20.10.1994,ba,Elmer Gantry,17.04.1961
+Maximilian Schell,male,08.12.1930,01.02.2014,ba,Judgment at Nuremberg,09.04.1962
+Gregory Peck,male,05.04.1916,12.06.2003,ba,To Kill a Mockingbird,08.04.1963
+Sidney Poitier,male,20.02.1927,,ba,Lilies of the Field,13.04.1964
+Rex Harrison,male,05.03.1908,02.06.1990,ba,My Fair Lady,05.04.1965
+Lee Marvin,male,19.02.1924,29.08.1987,ba,Cat Ballou,18.04.1966
+Paul Scofield,male,21.01.1922,19.03.2008,ba,A Man for All Seasons,10.04.1967
+Rod Steiger,male,14.04.1925,09.07.2002,ba,In the Heat of the Night,10.04.1968
+Cliff Robertson,male,09.09.1923,10.09.2011,ba,Charly,14.04.1969
+John Wayne,male,26.05.1907,11.06.1979,ba,True Grit,07.04.1970
+George C. Scott,male,18.10.1927,22.09.1999,ba,Patton,15.04.1971
+Gene Hackman,male,30.01.1930,,ba,The French Connection,10.04.1972
+Marlon Brando,male,03.04.1924,01.07.2004,ba,The Godfather,27.03.1973
+Jack Lemmon,male,08.02.1925,27.06.2001,ba,Save the Tiger,02.04.1974
+Art Carney,male,04.11.1918,09.11.2003,ba,Harry and Tonto,08.04.1975
+Jack Nicholson,male,22.04.1937,,ba,One Flew Over the Cuckoo's Nest,29.03.1976
+Peter Finch,male,28.09.1916,14.01.1977,ba,Network,28.03.1977
+Richard Dreyfuss,male,29.10.1947,,ba,The Goodbye Girl,03.04.1978
+Jon Voight,male,29.12.1938,,ba,Coming Home,09.04.1979
+Dustin Hoffman,male,08.08.1937,,ba,Kramer vs. Kramer,14.04.1980
+Robert De Niro,male,17.08.1943,,ba,Raging Bull,31.03.1981
+Henry Fonda,male,16.05.1905,12.08.1982,ba,On Golden Pond,29.03.1982
+Ben Kingsley,male,31.12.1943,,ba,Gandhi,11.04.1983
+Robert Duvall,male,05.01.1931,,ba,Tender Mercies,09.04.1984
+F. Murray Abraham,male,24.10.1939,,ba,Amadeus,25.03.1985
+William Hurt,male,20.03.1950,,ba,Kiss of the Spider Woman,24.03.1986
+Paul Newman,male,26.01.1925,26.09.2008,ba,The Color of Money,30.03.1987
+Michael Douglas,male,25.09.1944,,ba,Wall Street,11.04.1988
+Dustin Hoffman,male,08.08.1937,,ba,Rain Man,27.03.1989
+Daniel Day-Lewis,male,29.04.1957,,ba,My Left Foot,26.03.1990
+Jeremy Irons,male,19.09.1948,,ba,Reversal of Fortune,25.03.1991
+Anthony Hopkins,male,31.12.1937,,ba,The Silence of the Lambs,30.03.1992
+Al Pacino,male,25.04.1940,,ba,Scent of a Woman,29.03.1993
+Tom Hanks,male,09.07.1956,,ba,Philadelphia,21.03.1994
+Tom Hanks,male,09.07.1956,,ba,Forrest Gump,27.03.1995
+Nicolas Cage,male,07.01.1964,,ba,Leaving Las Vegas,25.03.1996
+Geoffrey Rush,male,06.07.1951,,ba,Shine,24.03.1997
+Jack Nicholson,male,22.04.1937,,ba,As Good as It Gets,23.03.1998
+Roberto Benigni,male,27.10.1952,,ba,Life Is Beautiful,21.03.1999
+Kevin Spacey,male,26.07.1959,,ba,American Beauty,26.03.2000
+Russell Crowe,male,07.04.1964,,ba,Gladiator,25.03.2001
+Denzel Washington,male,28.12.1954,,ba,Training Day,24.03.2002
+Adrien Brody,male,14.04.1973,,ba,The Pianist,23.03.2003
+Sean Penn,male,17.08.1960,,ba,Mystic River,29.02.2004
+Jamie Foxx,male,13.12.1967,,ba,Ray,27.02.2005
+Philip Seymour Hoffman,male,23.07.1967,02.02.2014,ba,Capote,05.03.2006
+Forest Whitaker,male,15.07.1961,,ba,The Last King of Scotland,25.02.2007
+Daniel Day-Lewis,male,29.04.1957,,ba,There Will Be Blood,24.02.2008
+Sean Penn,male,17.08.1960,,ba,Milk,22.02.2009
+Jeff Bridges,male,04.12.1949,,ba,Crazy Heart,07.03.2010
+Colin Firth,male,10.09.1960,,ba,The King's Speech,27.02.2011
+Jean Dujardin,male,19.06.1972,,ba,The Artist,26.02.2012
+Daniel Day-Lewis,male,29.04.1957,,ba,Lincoln,24.02.2013
+Matthew McConaughey,male,04.11.1969,,ba,Dallas Buyers Club,02.03.2014
+Eddie Redmayne,male,06.01.1982,,ba,The Theory of Everything,22.02.2015
+Janet Gaynor,female,06.10.1906,14.09.1984,ba,Street Angel; Sunrise: A Song of Two Humans,16.05.1929
+Mary Pickford,female,08.04.1892,29.05.1979,ba,Coquette,03.04.1930
+Norma Shearer,female,10.08.1902,12.06.1983,ba,The Divorcee,05.11.1930
+Marie Dressler,female,09.11.1868,28.07.1934,ba,Min and Bill,10.11.1931
+Helen Hayes,female,10.10.1900,17.03.1993,ba,The Sin of Madelon Claudet,18.11.1932
+Katharine Hepburn,female,12.05.1907,29.06.2003,ba,Morning Glory,16.03.1934
+Claudette Colbert,female,13.09.1903,30.07.1996,ba,It Happened One Night,27.02.1935
+Bette Davis,female,05.04.1908,06.10.1989,ba,Dangerous,05.03.1936
+Luise Rainer,female,12.01.1910,30.12.2014,ba,The Great Ziegfeld,04.03.1937
+Luise Rainer,female,12.01.1910,30.12.2014,ba,The Good Earth,10.03.1938
+Bette Davis,female,05.04.1908,06.10.1989,ba,Jezebel,23.02.1939
+Vivien Leigh,female,05.11.1913,07.07.1967,ba,Gone with the Wind,29.02.1940
+Ginger Rogers,female,16.07.1911,25.04.1995,ba,Kitty Foyle,27.02.1941
+Joan Fontaine,female,22.10.1917,15.12.2013,ba,Suspicion,26.02.1942
+Greer Garson,female,29.09.1904,06.04.1996,ba,Mrs. Miniver,04.03.1943
+Jennifer Jones,female,02.03.1919,17.12.2009,ba,The Song of Bernadette,02.03.1944
+Ingrid Bergman,female,29.08.1915,29.08.1982,ba,Gaslight,15.03.1945
+Joan Crawford,female,23.03.1904,10.05.1977,ba,Mildred Pierce,07.03.1946
+Olivia de Havilland,female,01.07.1916,,ba,To Each His Own,13.03.1947
+Loretta Young,female,06.01.1913,12.08.2000,ba,The Farmer's Daughter,20.03.1948
+Jane Wyman,female,05.01.1917,10.09.2007,ba,Johnny Belinda,24.03.1949
+Olivia de Havilland,female,01.07.1916,,ba,The Heiress,23.03.1950
+Judy Holliday,female,21.06.1921,07.06.1965,ba,Born Yesterday,29.03.1951
+Vivien Leigh,female,05.11.1913,07.07.1967,ba,A Streetcar Named Desire,20.03.1952
+Shirley Booth,female,30.08.1898,16.10.1992,ba,Come Back Little Sheba,19.03.1953
+Audrey Hepburn,female,04.05.1929,20.01.1993,ba,Roman Holiday,25.03.1954
+Grace Kelly,female,12.11.1929,14.09.1982,ba,The Country Girl,30.03.1955
+Anna Magnani,female,07.03.1908,26.09.1973,ba,The Rose Tattoo,21.03.1956
+Ingrid Bergman,female,29.08.1915,29.08.1982,ba,Anastasia,27.03.1957
+Joanne Woodward,female,27.02.1930,,ba,The Three Faces of Eve,26.03.1958
+Susan Hayward,female,30.06.1917,14.03.1975,ba,I Want to Live!,06.04.1959
+Simone Signoret,female,25.03.1921,30.09.1985,ba,Room at the Top,04.04.1960
+Elizabeth Taylor,female,27.02.1932,23.03.2011,ba,Butterfield 8,17.04.1961
+Sophia Loren,female,20.09.1934,,ba,Two Women,09.04.1962
+Anne Bancroft,female,17.09.1931,06.06.2005,ba,The Miracle Worker,08.04.1963
+Patricia Neal,female,20.01.1926,08.08.2010,ba,Hud,13.04.1964
+Julie Andrews,female,01.10.1935,,ba,Mary Poppins,05.04.1965
+Julie Christie,female,14.04.1941,,ba,Darling,18.04.1966
+Elizabeth Taylor,female,27.02.1932,23.03.2011,ba,Who's Afraid of Virginia Woolf?,10.04.1967
+Katharine Hepburn,female,12.05.1907,29.06.2003,ba,Guess Who's Coming to Dinner,10.04.1968
+Katharine Hepburn,female,12.05.1907,29.06.2003,ba,The Lion in Winter,14.04.1969
+Barbra Streisand,female,24.04.1942,,ba,Funny Girl,14.04.1969
+Maggie Smith,female,28.12.1934,,ba,The Prime of Miss Jean Brodie,07.04.1970
+Glenda Jackson,female,09.05.1936,,ba,Women in Love,15.04.1971
+Jane Fonda,female,21.12.1937,,ba,Klute,10.04.1972
+Liza Minnelli,female,12.03.1946,,ba,Cabaret,27.03.1973
+Glenda Jackson,female,09.05.1936,,ba,A Touch of Class,02.04.1974
+Ellen Burstyn,female,07.12.1932,,ba,Alice Doesn't Live Here Anymore,08.04.1975
+Louise Fletcher,female,22.07.1934,,ba,One Flew Over the Cuckoo's Nest,29.03.1976
+Faye Dunaway,female,14.01.1941,,ba,Network,28.03.1977
+Diane Keaton,female,05.01.1946,,ba,Annie Hall,03.04.1978
+Jane Fonda,female,21.12.1937,,ba,Coming Home,09.04.1979
+Sally Field,female,06.11.1946,,ba,Norma Rae,14.04.1980
+Sissy Spacek,female,25.12.1949,,ba,Coal Miner's Daughter,31.03.1981
+Katharine Hepburn,female,12.05.1907,29.06.2003,ba,On Golden Pond,29.03.1982
+Meryl Streep,female,22.06.1949,,ba,Sophie's Choice,11.04.1983
+Shirley MacLaine,female,24.04.1934,,ba,Terms of Endearment,09.04.1984
+Sally Field,female,06.11.1946,,ba,Places in the Heart,25.03.1985
+Geraldine Page,female,22.11.1924,13.06.1987,ba,The Trip to Bountiful,24.03.1986
+Marlee Matlin,female,24.08.1965,,ba,Children of a Lesser God,30.03.1987
+Cher,female,20.05.1946,,ba,Moonstruck,11.04.1988
+Jodie Foster,female,19.11.1962,,ba,The Accused,27.03.1989
+Jessica Tandy,female,07.06.1909,11.09.1994,ba,Driving Miss Daisy,26.03.1990
+Kathy Bates,female,28.06.1948,,ba,Misery,25.03.1991
+Jodie Foster,female,19.11.1962,,ba,The Silence of the Lambs,30.03.1992
+Emma Thompson,female,15.04.1959,,ba,Howards End,29.03.1993
+Holly Hunter,female,20.03.1958,,ba,The Piano,21.03.1994
+Jessica Lange,female,20.04.1949,,ba,Blue Sky,27.03.1995
+Susan Sarandon,female,04.10.1946,,ba,Dead Man Walking,25.03.1996
+Frances McDormand,female,23.06.1957,,ba,Fargo,24.03.1997
+Helen Hunt,female,15.06.1963,,ba,As Good as It Gets,23.03.1998
+Gwyneth Paltrow,female,27.09.1972,,ba,Shakespeare in Love,21.03.1999
+Hilary Swank,female,30.07.1974,,ba,Boys Don't Cry,26.03.2000
+Julia Roberts,female,28.10.1967,,ba,Erin Brockovich,25.03.2001
+Halle Berry,female,14.08.1966,,ba,Monster's Ball,24.03.2002
+Nicole Kidman,female,20.06.1967,,ba,The Hours,23.03.2003
+Charlize Theron,female,07.08.1975,,ba,Monster,29.02.2004
+Hilary Swank,female,30.07.1974,,ba,Million Dollar Baby,27.02.2005
+Reese Witherspoon,female,22.03.1976,,ba,Walk the Line,05.03.2006
+Helen Mirren,female,26.07.1945,,ba,The Queen,25.02.2007
+Marion Cotillard,female,30.09.1975,,ba,La Vie en rose,24.02.2008
+Kate Winslet,female,05.10.1975,,ba,The Reader,22.02.2009
+Sandra Bullock,female,26.07.1964,,ba,The Blind Side,07.03.2010
+Natalie Portman,female,09.06.1981,,ba,Black Swan,27.02.2011
+Meryl Streep,female,22.06.1949,,ba,The Iron Lady,26.02.2012
+Jennifer Lawrence,female,15.08.1990,,ba,Silver Linings Playbook,24.02.2013
+Cate Blanchett,female,14.05.1969,,ba,Blue Jasmine,02.03.2014
+Julianne Moore,female,03.12.1960,,ba,Still Alice,22.02.2015
+Walter Brennan,male,25.07.1894,21.09.1974,bsa,Come and Get It,04.03.1937
+Joseph Schildkraut,male,22.03.1896,21.01.1964,bsa,The Life of Emile Zola,10.03.1938
+Walter Brennan,male,25.07.1894,21.09.1974,bsa,Kentucky,23.02.1939
+Thomas Mitchell,male,11.07.1892,17.12.1962,bsa,Stagecoach,29.02.1940
+Walter Brennan,male,25.07.1894,21.09.1974,bsa,The Westerner,27.02.1941
+Donald Crisp,male,27.07.1882,25.05.1974,bsa,How Green Was My Valley,26.02.1942
+Van Heflin,male,13.12.1910,23.07.1971,bsa,Johnny Eager,04.03.1943
+Charles Coburn,male,19.06.1877,30.08.1961,bsa,The More the Merrier,02.03.1944
+Barry Fitzgerald,male,10.03.1888,14.01.1961,bsa,Going My Way,15.03.1945
+James Dunn,male,02.11.1901,03.09.1967,bsa,A Tree Grows in Brooklyn,07.03.1946
+Harold Russell,male,14.01.1914,29.01.2002,bsa,The Best Years of Our Lives,13.03.1947
+Edmund Gwenn,male,26.09.1877,06.09.1959,bsa,Miracle on 34th Street,20.03.1948
+Walter Huston,male,06.04.1884,07.04.1950,bsa,The Treasure of the Sierra Madre,24.03.1949
+Dean Jagger,male,07.11.1903,05.02.1991,bsa,Twelve O'Clock High,23.03.1950
+George Sanders,male,03.07.1906,25.04.1972,bsa,All About Eve,29.03.1951
+Karl Malden,male,22.03.1912,01.07.2009,bsa,A Streetcar Named Desire,30.03.1952
+Anthony Quinn,male,21.04.1915,03.06.2001,bsa,Viva Zapata!,19.03.1953
+Frank Sinatra,male,12.12.1915,14.05.1998,bsa,From Here to Eternity,25.03.1954
+Edmond O'Brien,male,10.09.1915,09.05.1985,bsa,The Barefoot Contessa,30.03.1955
+Jack Lemmon,male,08.02.1925,27.06.2001,bsa,Mister Roberts,21.03.1956
+Anthony Quinn,male,21.04.1915,03.06.2001,bsa,Lust for Life,27.03.1957
+Red Buttons,male,05.02.1919,13.07.2006,bsa,Sayonara,26.03.1958
+Burl Ives,male,14.06.1909,14.04.1995,bsa,The Big Country,06.04.1959
+Hugh Griffith,male,30.05.1912,14.05.1980,bsa,Ben-Hur,04.04.1960
+Peter Ustinov,male,16.04.1921,28.03.2004,bsa,Spartacus,17.04.1961
+George Chakiris,male,16.09.1934,,bsa,West Side Story,09.04.1962
+Ed Begley,male,25.03.1901,28.04.1970,bsa,Sweet Bird of Youth,08.04.1963
+Melvyn Douglas,male,05.04.1901,04.08.1981,bsa,Hud,13.04.1964
+Peter Ustinov,male,16.04.1921,28.03.2004,bsa,Topkapi,05.04.1965
+Martin Balsam,male,04.11.1919,13.02.1996,bsa,A Thousand Clowns,18.04.1966
+Walter Matthau,male,01.10.1920,01.07.2000,bsa,The Fortune Cookie,10.04.1967
+George Kennedy,male,18.02.1925,,bsa,Cool Hand Luke,10.04.1968
+Jack Albertson,male,16.06.1907,25.11.1981,bsa,The Subject Was Roses,14.04.1969
+Gig Young,male,04.11.1913,19.10.1978,bsa,They Shoot Horses Don't They?,07.04.1970
+John Mills,male,22.02.1908,23.04.2005,bsa,Ryan's Daughter,15.04.1971
+Ben Johnson,male,13.06.1918,08.04.1996,bsa,The Last Picture Show,10.04.1972
+Joel Grey,male,11.04.1932,,bsa,Cabaret,27.03.1973
+John Houseman,male,22.09.1902,31.10.1988,bsa,The Paper Chase,02.04.1974
+Robert De Niro,male,17.08.1943,,bsa,The Godfather Part II,08.04.1975
+George Burns,male,20.01.1896,09.03.1996,bsa,The Sunshine Boys,29.03.1976
+Jason Robards,male,26.07.1922,26.12.2000,bsa,All the President's Men,28.03.1977
+Jason Robards,male,26.07.1922,26.12.2000,bsa,Julia,03.04.1978
+Christopher Walken,male,31.03.1943,,bsa,The Deer Hunter,09.04.1979
+Melvyn Douglas,male,05.04.1901,04.08.1981,bsa,Being There,14.04.1980
+Timothy Hutton,male,16.08.1960,,bsa,Ordinary People,31.03.1981
+John Gielgud,male,14.04.1904,21.05.2000,bsa,Arthur,29.03.1982
+Louis Gossett Jr.,male,27.05.1936,,bsa,An Officer and a Gentleman,11.04.1983
+Jack Nicholson,male,22.04.1937,,bsa,Terms of Endearment,09.04.1984
+Haing S. Ngor,male,22.03.1940,25.02.1996,bsa,The Killing Fields,25.03.1985
+Don Ameche,male,31.05.1908,06.12.1993,bsa,Cocoon,24.03.1986
+Michael Caine,male,14.03.1933,,bsa,Hannah and Her Sisters,30.03.1987
+Sean Connery,male,25.08.1930,,bsa,The Untouchables,11.04.1988
+Kevin Kline,male,24.10.1947,,bsa,A Fish Called Wanda,27.03.1989
+Denzel Washington,male,28.12.1954,,bsa,Glory,26.03.1990
+Joe Pesci,male,09.02.1943,,bsa,Goodfellas,25.03.1991
+Jack Palance,male,18.02.1919,10.11.2006,bsa,City Slickers,30.03.1992
+Gene Hackman,male,30.01.1930,,bsa,Unforgiven,29.03.1993
+Tommy Lee Jones,male,15.09.1946,,bsa,The Fugitive,21.03.1994
+Martin Landau,male,20.06.1928,,bsa,Ed Wood,27.03.1995
+Kevin Spacey,male,26.07.1959,,bsa,The Usual Suspects,25.03.1996
+Cuba Gooding Jr.,male,02.01.1968,,bsa,Jerry Maguire,24.03.1997
+Robin Williams,male,21.07.1951,11.08.2014,bsa,Good Will Hunting,23.03.1998
+James Coburn,male,31.08.1928,18.11.2002,bsa,Affliction,21.03.1999
+Michael Caine,male,14.03.1933,,bsa,The Cider House Rules,26.03.2000
+Benicio del Toro,male,19.02.1967,,bsa,Traffic,25.03.2001
+Jim Broadbent,male,24.05.1949,,bsa,Iris,24.03.2002
+Chris Cooper,male,09.07.1951,,bsa,Adaptation,23.03.2003
+Tim Robbins,male,16.10.1958,,bsa,Mystic River,29.02.2004
+Morgan Freeman,male,01.06.1937,,bsa,Million Dollar Baby,27.02.2005
+George Clooney,male,06.05.1961,,bsa,Syriana,05.03.2006
+Alan Arkin,male,26.03.1934,,bsa,Little Miss Sunshine,25.02.2007
+Javier Bardem,male,01.03.1969,,bsa,No Country for Old Men,24.02.2008
+Heath Ledger,male,04.04.1979,22.01.2008,bsa,The Dark Knight,22.02.2009
+Christoph Waltz,male,04.10.1956,,bsa,Inglourious Basterds,07.03.2010
+Christian Bale,male,30.01.1974,,bsa,The Fighter,27.02.2011
+Christopher Plummer,male,13.12.1929,,bsa,Beginners,26.02.2012
+Christoph Waltz,male,04.10.1956,,bsa,Django Unchained,24.02.2013
+Jared Leto,male,26.12.1971,,bsa,Dallas Buyers Club,02.03.2014
+J. K. Simmons,male,09.01.1955,,bsa,Whiplash,22.02.2015
+Gale Sondergaard,female,15.02.1899,14.08.1985,bsa,Anthony Adverse,04.03.1937
+Alice Brady,female,02.11.1892,28.10.1939,bsa,In Old Chicago,10.03.1938
+Fay Bainter,female,07.12.1893,16.04.1968,bsa,Jezebel,23.02.1939
+Hattie McDaniel,female,10.06.1895,26.10.1952,bsa,Gone with the Wind,29.02.1940
+Jane Darwell,female,15.10.1879,13.08.1967,bsa,The Grapes of Wrath,27.02.1941
+Mary Astor,female,03.05.1906,25.09.1987,bsa,The Great Lie,26.02.1942
+Teresa Wright,female,27.10.1918,06.03.2005,bsa,Mrs. Miniver,04.03.1943
+Katina Paxinou,female,17.12.1900,22.02.1973,bsa,For Whom the Bell Tolls,02.03.1944
+Ethel Barrymore,female,15.08.1879,18.06.1959,bsa,None but the Lonely Heart,15.03.1945
+Anne Revere,female,25.06.1903,18.12.1990,bsa,National Velvet,07.03.1946
+Anne Baxter,female,07.05.1923,12.12.1985,bsa,The Razor's Edge,13.03.1947
+Celeste Holm,female,29.04.1917,15.07.2012,bsa,Gentleman's Agreement,20.03.1948
+Claire Trevor,female,08.03.1910,08.04.2000,bsa,Key Largo,24.03.1949
+Mercedes McCambridge,female,16.03.1916,02.03.2004,bsa,All the King's Men,23.03.1950
+Josephine Hull,female,03.01.1877,12.03.1957,bsa,Harvey,29.03.1951
+Kim Hunter,female,12.11.1922,11.09.2002,bsa,A Streetcar Named Desire,30.03.1952
+Gloria Grahame,female,28.11.1923,05.10.1981,bsa,The Bad and the Beautiful,19.03.1953
+Donna Reed,female,27.01.1921,14.01.1986,bsa,From Here to Eternity,25.03.1954
+Eva Marie Saint,female,04.07.1924,,bsa,On the Waterfront,30.03.1955
+Jo Van Fleet,female,30.12.1914,10.06.1996,bsa,East of Eden,21.03.1956
+Dorothy Malone,female,30.01.1925,,bsa,Written on the Wind,27.03.1957
+Miyoshi Umeki,female,08.05.1929,28.08.2007,bsa,Sayonara,26.03.1958
+Wendy Hiller,female,15.08.1912,14.05.2003,bsa,Separate Tables,06.04.1959
+Shelley Winters,female,18.08.1920,14.01.2006,bsa,The Diary of Anne Frank,04.04.1960
+Shirley Jones,female,31.03.1934,,bsa,Elmer Gantry,17.04.1961
+Rita Moreno,female,11.12.1931,,bsa,West Side Story,09.04.1962
+Patty Duke,female,14.12.1946,,bsa,The Miracle Worker,08.04.1963
+Margaret Rutherford,female,11.05.1892,22.05.1972,bsa,The V.I.P.s,13.04.1964
+Lila Kedrova,female,09.10.1918,16.02.2000,bsa,Zorba the Greek,05.04.1965
+Shelley Winters,female,18.08.1920,14.01.2006,bsa,A Patch of Blue,18.04.1966
+Sandy Dennis,female,27.04.1937,02.03.1992,bsa,Who's Afraid of Virginia Woolf,10.04.1967
+Estelle Parsons,female,20.11.1927,,bsa,Bonnie and Clyde,10.04.1968
+Ruth Gordon,female,30.10.1896,28.08.1985,bsa,Rosemary's Baby,14.04.1969
+Goldie Hawn,female,21.11.1945,,bsa,Cactus Flower,07.04.1970
+Helen Hayes,female,10.10.1900,17.03.1993,bsa,Airport,15.04.1971
+Cloris Leachman,female,30.04.1926,,bsa,The Last Picture Show,10.04.1972
+Eileen Heckart,female,29.03.1919,31.12.2001,bsa,Butterflies Are Free,27.03.1973
+Tatum O'Neal,female,05.11.1963,,bsa,Paper Moon,02.04.1974
+Ingrid Bergman,female,29.08.1915,29.08.1982,bsa,Murder on the Orient Express,08.04.1975
+Lee Grant,female,31.10.1927,,bsa,Shampoo,29.03.1976
+Beatrice Straight,female,02.08.1914,07.04.2001,bsa,Network,28.03.1977
+Vanessa Redgrave,female,30.01.1937,,bsa,Julia,03.04.1978
+Maggie Smith,female,28.12.1934,,bsa,California Suite,09.04.1979
+Meryl Streep,female,22.06.1949,,bsa,Kramer vs. Kramer,14.04.1980
+Mary Steenburgen,female,08.02.1953,,bsa,Melvin and Howard,31.03.1981
+Maureen Stapleton,female,21.06.1925,13.03.2006,bsa,Reds,29.03.1982
+Jessica Lange,female,20.04.1949,,bsa,Tootsie,11.04.1983
+Linda Hunt,female,02.04.1945,,bsa,The Year of Living Dangerously,09.04.1984
+Peggy Ashcroft,female,22.12.1907,14.06.1991,bsa,A Passage to India,25.03.1985
+Anjelica Huston,female,08.07.1951,,bsa,Prizzi's Honor,24.03.1986
+Dianne Wiest,female,28.03.1948,,bsa,Hannah and Her Sisters,30.03.1987
+Olympia Dukakis,female,20.06.1931,,bsa,Moonstruck,11.04.1988
+Geena Davis,female,21.01.1956,,bsa,The Accidental Tourist,27.03.1989
+Brenda Fricker,female,17.02.1945,,bsa,My Left Foot,26.03.1990
+Whoopi Goldberg,female,13.11.1955,,bsa,Ghost,25.03.1991
+Mercedes Ruehl,female,28.02.1948,,bsa,The Fisher King,30.03.1992
+Marisa Tomei,female,04.12.1964,,bsa,My Cousin Vinny,29.03.1993
+Anna Paquin,female,24.07.1982,,bsa,The Piano,21.03.1994
+Dianne Wiest,female,28.03.1948,,bsa,Bullets Over Broadway,27.03.1995
+Mira Sorvino,female,28.09.1967,,bsa,Mighty Aphrodite,25.03.1996
+Juliette Binoche,female,09.03.1964,,bsa,The English Patient,24.03.1997
+Kim Basinger,female,08.12.1953,,bsa,L.A. Confidential,23.03.1998
+Judi Dench,female,09.12.1934,,bsa,Shakespeare in Love,21.03.1999
+Angelina Jolie,female,04.06.1975,,bsa,Girl Interrupted,26.03.2000
+Marcia Gay Harden,female,14.08.1959,,bsa,Pollock,25.03.2001
+Jennifer Connelly,female,12.12.1970,,bsa,A Beautiful Mind,24.03.2002
+Catherine Zeta-Jones,female,25.09.1969,,bsa,Chicago,23.03.2003
+Renée Zellweger,female,25.04.1969,,bsa,Cold Mountain,29.02.2004
+Cate Blanchett,female,14.05.1969,,bsa,The Aviator,27.02.2005
+Rachel Weisz,female,07.03.1970,,bsa,The Constant Gardener,05.03.2006
+Jennifer Hudson,female,12.09.1981,,bsa,Dreamgirls,25.02.2007
+Tilda Swinton,female,05.11.1960,,bsa,Michael Clayton,24.02.2008
+Penélope Cruz,female,28.04.1974,,bsa,Vicky Cristina Barcelona,22.02.2009
+Monique Imes,female,11.12.1967,,bsa,Precious,07.03.2010
+Melissa Leo,female,14.09.1960,,bsa,The Fighter,27.02.2011
+Octavia Spencer,female,25.05.1970,,bsa,The Help,26.02.2012
+Anne Hathaway,female,12.11.1982,,bsa,Les Misérables,24.02.2013
+Lupita Nyong'o,female,01.03.1983,,bsa,12 Years a Slave,02.03.2014
+Patricia Arquette,female,08.04.1968,,bsa,Boyhood,22.02.2015
